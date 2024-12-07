@@ -1,0 +1,11 @@
+/* Footer.css */
+footer {
+    border-top: 2px solid rgba(255, 255, 255, 0.2);
+    
+  }
+  
+  footer a:hover {
+    color: #ffe600; /* Optional hover effect for links */
+    text-decoration: underline;
+  }
+ 
